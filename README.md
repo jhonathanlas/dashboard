@@ -1,83 +1,86 @@
-# 🚀 Nome do Projeto
+# 📊 Projeto Excel - Análise de Dados
 
-Descrição breve e objetiva do projeto.  
-Explique em 1 ou 2 frases o que ele faz e qual problema resolve.
+Este projeto utiliza o Microsoft Excel para análise, organização e visualização de dados, com foco em apoiar a tomada de decisão.
 
 ---
 
-## 📌 Funcionalidades
+## 📌 Objetivo
 
-- ✅ Funcionalidade 1
-- ✅ Funcionalidade 2
-- ✅ Funcionalidade 3
-- 🔄 Em desenvolvimento: funcionalidade futura
+Transformar dados brutos em informações relevantes por meio de:
+- Limpeza de dados
+- Análise
+- Criação de dashboards
+
+---
+
+## 📂 Arquivos do Projeto
+
+- 📁 dados.xlsx → Base de dados utilizada
+- 📁 dashboard.xlsx → Dashboard com gráficos e indicadores
+- 📄 README.md → Documentação do projeto
+
+---
+
+## 📊 Funcionalidades
+
+- ✔️ Tratamento e padronização de dados
+- ✔️ Uso de fórmulas (PROCV, SOMA, SE, etc.)
+- ✔️ Tabelas dinâmicas
+- ✔️ Gráficos interativos
+- ✔️ Dashboard visual
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- (ou Python, Node.js, etc)
+- Microsoft Excel 365
+- Power Query (opcional)
+- Power Pivot (opcional)
 
 ---
 
-## 📂 Estrutura do Projeto
+## ▶️ Como usar
 
-
+1. Baixe o arquivo `.xlsx`
+2. Abra no Excel
+3. Navegue pelas abas:
+   - Dados
+   - Análises
+   - Dashboard
 
 ---
 
-## ▶️ Como Executar
+## 📈 Indicadores analisados
 
-### 🔹 Opção 1 (Local)
-1. Baixe o projeto
-2. Abra o arquivo `index.html` no navegador
-
-### 🔹 Opção 2 (GitHub Pages)
-1. Suba o projeto no GitHub
-2. Vá em **Settings > Pages**
-3. Selecione a branch `main`
-4. Acesse o link gerado
+- 📌 Total de vendas
+- 📌 Quantidade de clientes
+- 📌 Produtos mais vendidos
+- 📌 Performance por período
 
 ---
 
 ## 📷 Preview
 
-*(adicione prints aqui se quiser)*
+*(adicione prints do Excel aqui)*
 
 ---
 
-## 📈 Melhorias Futuras
+## 🚀 Melhorias futuras
 
-- [ ] Melhorar interface
-- [ ] Adicionar novas funcionalidades
-- [ ] Responsividade mobile
-
----
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas!
-
-1. Fork o projeto
-2. Crie uma branch (`git checkout -b feature/minha-feature`)
-3. Commit (`git commit -m 'Minha feature'`)
-4. Push (`git push origin feature/minha-feature`)
-5. Abra um Pull Request
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
+- [ ] Automatizar atualização de dados
+- [ ] Integrar com banco de dados
+- [ ] Criar versão em Power BI
 
 ---
 
 ## 👨‍💻 Autor
 
 **Jhonathan Luis Adriano Silva**  
-📍 São Paulo - SP  
 🔗 https://github.com/jhonathanlas  
 🔗 LinkedIn: https://linkedin.com/in/jhonathan
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
